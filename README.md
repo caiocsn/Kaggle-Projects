@@ -6,10 +6,7 @@ This repository contains a collection of data science projects that I have compl
 
 The projects included in this repository are:
 
-- Project 1: [Insert project name and brief description]
-- Project 2: [Insert project name and brief description]
-- Project 3: [Insert project name and brief description]
-- ...
+- [Playground Series - Season 3, Episode 12](https://github.com/caiocsn/Kaggle-Projects/blob/main/catboost-cluster-analysis.ipynb)
 
 ## How to Use
 
