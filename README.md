@@ -6,6 +6,7 @@ This repository contains a collection of data science projects that I have compl
 
 The projects included in this repository are:
 
+- [Playground Series - Season 3, Episode 13 - Cluster analysis - prognosis](https://github.com/caiocsn/Kaggle-Projects/blob/main/clustering-symptoms-patterns.ipynb)
 - [Playground Series - Season 3, Episode 12 - Cluster analysis](https://github.com/caiocsn/Kaggle-Projects/blob/main/catboost-cluster-analysis.ipynb)
 - [Playground Series - Season 3, Episode 12 - Residue analysis](https://github.com/caiocsn/Kaggle-Projects/blob/main/single-variable-calc-residue-analysis.ipynb)
 
